@@ -19,7 +19,7 @@
   "dependencies": {
     "0x": "^3.1.0",
     "@nearform/clinic-doctor": "^2.0.0",
-    "async": "^2.6.0",
+    "async": "^3.2.2",
     "commist": "^1.0.0",
     "env-string": "^1.0.0",
     "execspawn": "^1.0.1",
